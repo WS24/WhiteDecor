@@ -544,4 +544,10 @@ p.sub-lead {
 .navbar-header {
     margin: 0!important;
 }
+.navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.navbar-toggle {
+	background-color: #333!important;
+}
 }
